@@ -1,0 +1,38 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+    <uk.ac.reading.sis05kol.mooc.GameView
+      android:id="@+id/gamearea"
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent"/>
+    
+    <RelativeLayout
+    	android:id="@+id/gameLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+         <TextView
+             android:id="@+id/score"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_alignParentRight="true"
+             android:layout_marginTop="3px"
+             android:gravity="top"
+             android:text="@string/score_text"
+             android:textColor="#ffffffff"
+             android:textSize="24sp"
+             android:visibility="visible" />
+
+        <TextView
+          android:id="@+id/text"
+		  android:text="@string/mode_ready"
+		  android:visibility="visible"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_centerInParent="true"
+          android:gravity="center_horizontal"
+          android:textColor="#ffffffff"
+          android:textSize="20sp"/>
+     </RelativeLayout>
+</FrameLayout>
