@@ -1,0 +1,7 @@
+1368542030161	Rename package 'com.example.uk.ac.reading.sis05kol.mooc'
+1368542733354	Delete element
+1368543081248	Rename resource 'background-200x300.png'
+1368613799254	Rename type 'BallOnTheScreen'
+1368629519061	Rename method 'onSensorOrientationChanged'
+1368631590225	Rename method 'onPhonePositionChanged'
+1368631616208	Rename method 'actionOnPhoneMoved'

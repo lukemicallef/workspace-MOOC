@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\sis05kol\Dropbox\ProgrammingMOOC\workspace-MOOC\.metadata\.plugins\org.eclipse.jdt.core
+3360890841.index
+1307038379.index
+448200848.index
