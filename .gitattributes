@@ -25,3 +25,13 @@
 .gitattributes export-ignore
 .gitignore export-ignore
 README.md export-ignore
+.git export-ignore
+.metadata export-ignore
+uk.ac.reading.sis05kol.mooc export-ignore
+v1.java export-ignore
+v2.java export-ignore
+#v3.java export-ignore
+v4.java export-ignore
+v5.java export-ignore
+v6.java export-ignore
+week5 updategameAlgorithm.txt export-ignore
